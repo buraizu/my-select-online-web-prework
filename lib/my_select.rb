@@ -6,6 +6,7 @@ def my_select(array)
     if check == true 
       new_array << check
     end
+    i = i + 1
   end
   new_array
 end
